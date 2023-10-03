@@ -1,0 +1,11 @@
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.DAL\bin\Debug\SistemaLogin.DAL.dll
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.DAL\bin\Debug\SistemaLogin.DAL.pdb
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.DAL\bin\Debug\Dapper.dll
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.DAL\bin\Debug\SistemaLogin.Entities.dll
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.DAL\bin\Debug\SistemaLogin.Entities.pdb
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.DAL\bin\Debug\Dapper.xml
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.DAL\obj\Debug\SistemaLogin.DAL.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.DAL\obj\Debug\SistemaLogin.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.DAL\obj\Debug\SistemaLogin.DAL.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.DAL\obj\Debug\SistemaLogin.DAL.dll
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.DAL\obj\Debug\SistemaLogin.DAL.pdb

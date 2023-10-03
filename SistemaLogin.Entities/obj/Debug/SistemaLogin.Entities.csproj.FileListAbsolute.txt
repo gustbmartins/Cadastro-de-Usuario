@@ -1,0 +1,9 @@
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.Entities\bin\Debug\SistemaLogin.Entities.dll
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.Entities\bin\Debug\SistemaLogin.Entities.pdb
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.Entities\bin\Debug\Dapper.dll
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.Entities\bin\Debug\Dapper.xml
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.Entities\obj\Debug\SistemaLogin.Entities.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.Entities\obj\Debug\SistemaLogin.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.Entities\obj\Debug\SistemaLogin.Entities.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.Entities\obj\Debug\SistemaLogin.Entities.dll
+C:\Users\Gustavo\source\repos\SistemaLogin\SistemaLogin.Entities\obj\Debug\SistemaLogin.Entities.pdb
