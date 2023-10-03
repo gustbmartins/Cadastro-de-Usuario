@@ -1,0 +1,78 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+body {
+    font-family: 'Noto Serif', serif;
+    
+}
+.formsLogin {
+    display: flex;
+    justify-content: center;
+    margin: 10% 40%;
+    flex-direction:column;
+    align-items:center;
+    border: 1px solid grey;
+    width:430px;
+    height:430px;
+    border-radius:10px;
+    
+    
+}
+
+.btnEntrar {
+    margin-top: 8%;
+}
+nav {
+    height: 60px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,68,121,1) 48%, rgba(113,191,231,1) 100%);
+}
+.buscarCpf
+{
+    margin-bottom: 2%;
+}
+
+#gridUsuarios {
+    margin-top: 2%;
+    margin-left: 20%;
+}
+
+#lblNome, #lnkSair {
+    color:white;
+    padding-left: 2%;
+}
+
+.bodyConsulta {
+    margin-left:5%;
+    margin-top: 2%;
+}
+
+.mainConsulta 
+{
+    margin-top:2%;
+}
+
+#btnCadastrar{
+    float:right;
+    margin-right:4%;
+}
+
+#modalBody
+{
+    display:flex;
+    flex-direction:column;
+    gap: 30px;
+    margin-bottom:5%;
+}
+
+#modalCadastro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid grey;
+    width: 700px;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 0 auto;
+    background-color: #FAF3F0;
+}
+
